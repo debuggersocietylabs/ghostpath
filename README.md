@@ -8,3 +8,5 @@ To publish with GitHub Pages, push this repository to the chosen GitHub reposito
 
 Pages: `index.html`, `privacy.html`, `support.html`.
 Support: debuggersociety@zohomail.com.
+
+September 13, 2026: Updated for build 2’s endless levels, full-route Check, Undo/Clear, fresh paths after mistakes, and local review-request counters. Verified at 320, 390, and 1440px.
