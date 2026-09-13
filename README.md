@@ -1,6 +1,6 @@
-# Ghospath website
+# Ghostpath website
 
-Static marketing, privacy, and support website for **Ghospath | Memory Game**, made for iPhone. This folder is an independent Git repository inside `ghostpath-app`.
+Static marketing, privacy, and support website for **Ghostpath | Memory Game**, made for iPhone. This folder is an independent Git repository inside `ghostpath-app`.
 
 Open `index.html` directly to preview. No install, build, third-party fonts, scripts, analytics, or cookies are required. The gameplay image is captured from the native app.
 
